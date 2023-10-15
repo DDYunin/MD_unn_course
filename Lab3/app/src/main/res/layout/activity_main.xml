@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/page1"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="40dp"
+        android:text="Step 1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/page2"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page1" />
+
+    <Button
+        android:id="@+id/page3"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page2" />
+
+    <Button
+        android:id="@+id/page4"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page3" />
+
+    <Button
+        android:id="@+id/page5"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page4" />
+
+    <Button
+        android:id="@+id/page6"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page5" />
+
+    <Button
+        android:id="@+id/page7"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page6" />
+
+    <Button
+        android:id="@+id/page8"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page7" />
+
+    <Button
+        android:id="@+id/page9"
+        android:layout_width="207dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:text="Step 9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page8" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
