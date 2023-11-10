@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/redLight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/grey_light"
+            />
+
+        <ImageView
+            android:id="@+id/yellowLight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/redLight"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/grey_light"
+            />
+
+        <ImageView
+            android:id="@+id/greenLight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/yellowLight"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/grey_light"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="299dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center_vertical"
+        >
+
+        <ImageView
+            android:id="@+id/walker"
+            android:layout_width="145dp"
+            android:layout_height="264dp"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/baseline_emoji_people_24"
+             />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bd18c90-2398-4c91-a1e9-7fe8a1301c0d" name="Changes" comment="" />
+    <list default="true" id="2bd18c90-2398-4c91-a1e9-7fe8a1301c0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/DB/AppDataBase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/DB/DataBaseBuilder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/DB/EntityTask.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/DB/IDataAccess.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/DB/RemoveListDBAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/RemoveListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/SimpleRecyclerList/ColorMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/SimpleRecyclerList/ItemRectangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/SimpleRecyclerList/RectangleList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/SimpleRecyclerList/RectangleListBuilder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/java/com/example/lab6/Task_8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/layout/activity_task_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/layout/activity_task_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/layout/activity_task_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/layout/activity_task_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/layout/activity_task_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/app/src/main/res/xml/network_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/Activity7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/AnimationedTextActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/ExampleFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/Signal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/SimpleTimer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/Task4Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/TimerActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/TrafficLightActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/java/com/example/lab_7/TrafficLightView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/balck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/baseline_emoji_people_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/green_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/grey_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/red_color_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/red_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/second_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/drawable/yellow_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_animationed_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_simple_timer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_task_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_timer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/activity_traffic_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/app/src/main/res/layout/fragment_example.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +65,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2WQy49ucJI0lCCeI1P1MoiJ915D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +77,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +94,12 @@
       <option name="presentableId" value="Default" />
       <updated>1696678914961</updated>
       <workItem from="1696678917047" duration="5000" />
+      <workItem from="1698428943408" duration="5000" />
+      <workItem from="1699087573708" duration="771000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
