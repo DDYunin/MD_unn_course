@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#80FFFFFF"> <!-- Цвет круга с прозрачностью -->
+
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Цвет фона круга -->
+            <corners android:radius="1000dp" /> <!-- Радиус скругления круга -->
+        </shape>
+    </item>
+</ripple>
